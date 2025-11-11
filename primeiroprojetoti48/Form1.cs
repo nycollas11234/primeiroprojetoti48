@@ -26,5 +26,10 @@ namespace primeiroprojetoti48
         {
             label1.Text = "ola texto ";
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
